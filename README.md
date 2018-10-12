@@ -1,2 +1,2 @@
 # Portfolio2
-updated vertion of my portfolio
+updated version of my portfolio
